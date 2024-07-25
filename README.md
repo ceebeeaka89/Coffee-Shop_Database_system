@@ -1,5 +1,5 @@
 # Project Background
-The project was to create a drink shop application, that store orders by customers, couriers delivering the product and products sold in the drinks shop.This project provides a simple command-line interface to manage products, couriers, and orders for a store. It allows users to perform CRUD (Create, Read, Update, Delete) operations on these entities using CSV files for data storage.
+The project was to create a drink shop application, that store orders by customers, couriers delivering the product and products sold in the drinks shop.This project provides a simple command-line interface to manage products, couriers, and orders for a store. It allows users to perform CRUD (Create, Read, Update, Delete) operations on these entities using CSV files and storing the data on a adminer MySQL cloud system , hosted through Docker.
 
 # Client requirements
 The client requirements was to build an application that could a variety of things fro three main areas of their business; Products, Couriers & Orders information.
