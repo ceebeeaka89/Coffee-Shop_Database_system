@@ -1,0 +1,5 @@
+customer name,customer address,customer phone,courier,status,items
+Alice Smith,"123 Main St, Anytown, CA 12345",555-123-4567,1,On route,2
+John Temple,"342 Springfiled rd, LA 543",765-67-988,3,Delivered,"2,4"
+Steve,t7 3r32,098765,1,Preparing,"3,2"
+Bob,12 bgrne,0987,1,Delivered,2
